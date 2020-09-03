@@ -1,0 +1,19 @@
+{
+  "name": "@deskeen/web-builder-minify-html",
+  "version": "0.1.0",
+  "description": "Web Builder Module - Minify HTML files",
+  "author": "Morgan Schmiedt",
+  "license": "MIT",
+  "repository": "https://github.com/deskeen/web-builder-minify-html",
+  "keywords": [
+    "build",
+    "website",
+    "node.js",
+    "minifier",
+    "html"
+  ],
+  "main": "src/module.js",
+  "dependencies": {
+    "html-minifier": "^4.0.0"
+  }
+}
