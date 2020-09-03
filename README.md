@@ -2,7 +2,7 @@
 
 This module allows the [@deskeen/web-builder](https://github.com/deskeen/web-builder) engine to minify HTML files.
 
-It uses the [@kangax/html-minifier][https://github.com/kangax/html-minifier] package under the hood.
+It uses the [@kangax/html-minifier](https://github.com/kangax/html-minifier) package under the hood.
 
 ## Install
 
